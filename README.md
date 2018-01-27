@@ -1,7 +1,7 @@
 # Machine-Learning-for-Belgian-Car-Dealers
 
 Summary:
-Perform data transformation, calculate descriptive statistics and machine learning models for Belgian Car Dealer
+Perform data transformation, calculate descriptive statistics and machine learning models for Belgian Car Dealer using HDFS and PySpark.
 
 Goal of assignment:
   Part 1: Putting the base file into HDFS
