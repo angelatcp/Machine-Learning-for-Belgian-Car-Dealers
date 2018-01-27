@@ -9,3 +9,5 @@ Goal of assignment:
   Part 3: Doing transformations and basic actions in Spark
   Part 4: Calculating ML models in Spark
   Part 5: Theoretical questions on Big Data Technologies
+  
+Note: Please open json file using Zeppelin notebook
